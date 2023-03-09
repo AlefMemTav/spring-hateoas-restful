@@ -3,15 +3,21 @@
 </h1>
 
 ## Spring Hateoas restful example
+
 ### What is it?
 Is a simple restful service that performs a CRUD of employee and a CRUD of customer.
-### Technology ans versions
+
+#### Project status
+Finished
+
+### Technology and versions
 - [x] Java 11;
 - [x] Spring Boot 2.7.9;
 - [x] Hateoas;
 - [x] JPA;
 - [x] Maven;
 - [x] H2 database;
+
 ### Example of expected output:
 
 #### 1) GET employess: `/employees`
