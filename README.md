@@ -132,4 +132,4 @@ Finished
 ### How to run
 In your IDE run the PayrollAplication class, or in your terminal run: `$ ./mvnw clean spring-boot:run`, or: `$ mvn clean spring-boot:run`.
 ### Sources
-Credits of the content of this repository to a tutorial guide of Spring website: [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
+Credits of the content of this repository to a tutorial guide of Spring's website: [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
